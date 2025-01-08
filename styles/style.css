@@ -1,0 +1,197 @@
+
+*{
+    margin: auto;
+    padding: auto;
+}
+.banner{
+    margin-top:150px ;
+    margin-bottom: 200px;
+}
+.bg-image{
+    background-image: linear-gradient(0deg,#07021100,#070211);
+    background-image: url('../images/Banner\ Image.png');
+  
+    background-repeat: no-repeat;
+    background-size:contain;
+    width: 1138px;
+    height: 526px;
+    margin-top:150px ;
+    text-align: center;
+    
+  
+}
+.banner-content{
+    color: #FFFFFF;
+    padding-top: 220px;
+    
+}
+ header h2{
+    font-size: 34px;
+} 
+header h1{
+    font-size: 56px;
+}
+.offer-section{
+    text-align: center;
+   
+}
+.offer-section h1{
+    color: red;
+    font-size: 58px;
+    padding: 30px;
+}
+.offer-section h4{
+    color: red;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.offer-section h2{
+    text-transform: uppercase;
+    font-size: 62px;
+    padding-top: 19px;
+}
+.offer-section img{
+    padding-top: 120px;
+}
+
+.party-section{
+ margin-top: 200px;
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1138px;
+    height: 526px;
+    border-radius: 20px;
+    text-align: left;
+   
+}
+.party-content{
+padding-left: 140px;
+padding-top: 100px;
+}
+.party-section h1{
+    color: white;
+    font-size: 65px;
+    padding-bottom: 40px;
+    
+}
+.party-section p{
+    color: white;
+    font-size: 25px; 
+    padding-bottom: 40px;
+}
+.party-section button{
+    background-color: rgb(13, 14, 14);
+    border-radius: 10px;
+    padding: 10px;
+    color: #FFFFFF;
+    border: none;
+    font-weight: 800;
+    font-size: larger;
+}
+.address-section{
+    width: 1138px;
+    height: 526px; 
+    background: rgb(190, 162, 162);
+    border-radius: 19px;
+    margin-top: 180px;
+    text-align: center;
+   
+    
+}
+.small-red{
+    color: red;
+    
+}
+.address-content{
+    padding-top: 200px;
+
+}
+.address-section button{
+    background-color: rgb(175, 9, 17);
+    border-radius: 10px;
+    padding: 20px;
+    color: #FFFFFF;
+    border: none;
+    font-weight: 600;
+    font-size: larger;
+    margin-top: 35px;
+}
+.address-section h1{
+    font-size: 38px;
+}
+
+.upcoming-offer{
+    display: flex;
+    width: 1138px;
+    height: 526px;
+   gap: 50px;
+   margin-top: 200px;
+}
+.upcoming-offer h2{
+color: red;
+font-size: 25px;
+}
+.upcoming-offer h1{
+   
+   font-size: 58px;
+   margin-top: 20px;
+   margin-bottom: 15px;
+}
+.upcoming-offer p{
+    font-size: 19px;
+    opacity: 0.5;
+}
+.group-celebration{
+    height: 380px;
+    width: 380px;
+    border: solid red 20px;
+    border-radius: 850px;
+    padding: 50px;
+}
+.holiday-section{
+    
+    width: 1138px;
+    height: 900px;
+    text-align: center;
+    margin-top: 200px;
+    
+    
+}
+.holiday-section h1{
+    font-size: 58px;
+    padding-top: 30px;
+}
+.holiday-section p{
+    font-size: 25px;
+    padding-top: 20px;
+}
+.holiday-footer{
+
+    width: 100%;
+}
+.holiday-image{
+    background-image: url('../images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    margin-top: 200px;
+    border-radius: 40px;
+    
+}
+.flower{
+    width: 600px;
+    height: 500px;
+    margin-right: 100px;
+  opacity: 0.2;
+  
+}
+.discount{
+    width: 280px;
+    height: 280px;
+    margin-bottom: 200px;
+    
+} 
